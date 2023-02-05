@@ -1,2 +1,3 @@
-# freeos
-Free Operating System
+# freeOS
+**free** **O**perating **S**ystem
+Made by Leander Lombardi
